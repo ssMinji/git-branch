@@ -1,1 +1,4 @@
-branch : main
+branch : feature-b
+
+contents:
+- b sample
