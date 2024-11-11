@@ -2,3 +2,4 @@ branch : feature-b
 
 contents:
 - b sample
+- bb sample
