@@ -2,3 +2,4 @@ branch : feature-a
 
 contents:
 - a sample
+- aa sample
